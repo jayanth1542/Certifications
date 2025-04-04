@@ -23,7 +23,6 @@ Each certificate is available in PDF or Image format (upon request).
 📩 Email: [somalajyanth1542@gmail.com]
 🔗 Fiverr: []
 
-🔥 Upload this file to your GitHub repo, add the link to Fiverr, and you're good to go! 🚀 Let me know when it's done!
 
 
 
