@@ -20,9 +20,8 @@ Each certificate is available in PDF or Image format (upon request).
 🔍 I focus on problem-solving, cloud automation, and ethical hacking to create secure and efficient solutions.
 
 📫 Contact Me:
-📩 Email: [Your Email]
-🔗 LinkedIn: [Your LinkedIn Profile]
-🔗 Fiverr: [Your Fiverr Profile]
+📩 Email: [somalajyanth1542@gmail.com]
+🔗 Fiverr: []
 
 🔥 Upload this file to your GitHub repo, add the link to Fiverr, and you're good to go! 🚀 Let me know when it's done!
 
